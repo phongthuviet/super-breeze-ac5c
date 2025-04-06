@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "super-breeze-ac5c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2417b4a1-9444-4e14-ac40-135e76c842bd",
+      "database_name": "fancy-bird-14aa-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
